@@ -19,4 +19,7 @@ In the project directory, you can run:
 
 ![2021-08-26 (7)](https://user-images.githubusercontent.com/68457095/131891615-6b84b6de-410e-4093-b1f6-9038a460e762.png)
 
+3.Post Uploadpage
+
+![2021-08-26 (9)](https://user-images.githubusercontent.com/68457095/131891949-274e512c-5588-4bf8-86ad-fcc38b01876f.png)
 
