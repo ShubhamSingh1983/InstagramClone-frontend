@@ -8,4 +8,10 @@ In the project directory, you can run:
 
 ### `npm start`
 
+#Screenshots
+
+
+1.Instagram Homepage
+
+![2021-08-26 (6)](https://user-images.githubusercontent.com/68457095/131891378-98805f58-c04d-45ee-86db-cfb147316685.png)
 
